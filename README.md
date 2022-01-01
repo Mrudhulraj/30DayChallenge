@@ -6,7 +6,7 @@ Questions :
 
 1.Given an array of strings, return all groups of strings that are anagrams.
 
-2.Overlapping rectangles
+2.Overlapping rectangles **#DONE**
 
 3.Count the subarrays having product less than k **#DONE**
 
