@@ -19,7 +19,7 @@ eg if the input string is “wwwwaaadexxxxxx”, then the function should return
             to          concatenate multiple str2 to get str1. For example, ab divides abab.
            if str2 does not divide str1, return -1. Otherwise, return the smallest string
            str3 such that str3 divides both str1 and str2. **#DONE (Partially)**
-7. Find the kid which gets tha damaged toy
+7. Find the kid which gets tha damaged toy **#DONE**
 
 8. Total Decoding Messages
 
